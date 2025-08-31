@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="crud-interface" />
+        <module name="calc-interface" />
+        <module name="demo" />
+        <module name="processor" />
+        <module name="list-core" />
+        <module name="list-demo" />
+        <module name="list-interface" />
+        <module name="dao" />
+        <module name="liquibase-migration" />
+        <module name="homework_07" />
+        <module name="calc-core" />
+        <module name="myexceptions" />
+        <module name="hw5Stream" />
+        <module name="demo-lab6" />
+        <module name="entity" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="homework_05" target="11" />
+      <module name="hw3List" target="11" />
+      <module name="y" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

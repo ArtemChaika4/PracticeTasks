@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/homework_05/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/homework_05/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/homework_06/crud-interface/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/homework_06/crud-interface/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/homework_06/dao/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/homework_06/dao/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/homework_06/demo-lab6/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/homework_06/demo-lab6/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/homework_06/entity/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/homework_06/entity/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/homework_06/liquibase-migration/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/homework_06/liquibase-migration/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/homework_06/myexceptions/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/homework_06/myexceptions/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/homework_06/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/homework_06/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/homework_07/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/homework_07/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hw2Calculator/calc-core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hw2Calculator/calc-core/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hw2Calculator/calc-interface/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hw2Calculator/calc-interface/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hw2Calculator/demo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hw2Calculator/demo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hw2Calculator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hw2Calculator/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hw2Calculator/y/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hw2Calculator/y/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hw3List/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hw3List/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hw3MyList/list-core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hw3MyList/list-core/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hw3MyList/list-demo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hw3MyList/list-demo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hw3MyList/list-interface/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hw3MyList/list-interface/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hw3MyList/processor/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hw3MyList/processor/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hw3MyList/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hw3MyList/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hw5Stream/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hw5Stream/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
